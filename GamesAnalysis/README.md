@@ -1,6 +1,6 @@
 # Улучшение процесса обогащения золота
 
-[ipynb](link)
+[ipynb](https://github.com/NatalyZyr/data_projects/blob/master/GamesAnalysis/games.ipynb)
 
 ## Описание проекта
 
