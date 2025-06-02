@@ -1,4 +1,4 @@
-# Улучшение процесса обогащения золота
+# Анализ продаж игр для планирования рекламных кампаний
 
 [ipynb](https://github.com/NatalyZyr/data_projects/blob/master/GamesAnalysis/games.ipynb)
 
